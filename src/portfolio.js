@@ -23,7 +23,8 @@ const greeting = {
   nickname: "jonu",
   subTitle:
     "As a Python developer, I’m driven by a passion for building real-world solutions that make a lasting impact. I enjoy creating  web applications and  systems that are  thoughtfully designed for users and the future",
-  resumeLink: " ",
+  resumeLink:
+    "https://drive.google.com/file/d/1si8DBL3P_DgyIaV8lc2JvV53ZQt4vBul/view?usp=drive_link",
   portfolio_repository: "https://github.com",
   githubProfile: "https://github.com/jonu888",
 };
@@ -46,7 +47,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/sanujosephs190544253/",
+    link: "https://www.linkedin.com/in/sanu-joseph-s-190544253/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -552,7 +553,7 @@ const experience = {
           company: "Luminar Technolab",
           company_url: "https://www.luminartechnolab.com/",
           logo_path: "luminar.jpg",
-          duration: "Aug 2024 - Present",
+          duration: "Aug 2024 - May 2025",
           location: "Kochi, Kerala",
           description:
             "Experience in building web applications using Django and React. I am also involved in creating REST APIs for the applications. I am also involved in creating and maintaining databases using SQL. I am also involved in creating and maintaining the server for the applications.",
@@ -748,7 +749,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
