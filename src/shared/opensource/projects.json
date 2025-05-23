@@ -2,6 +2,28 @@
   "data": [
     {
       "id": "1",
+      "name": "Screenlyze - AI-Powered Interview Analyzer",
+      "createdAt": "2025",
+      "url": "https://github.com/jonu888/Screenlyze-Interview_Analyzer",
+      "description": "Screenlyze is an AI-powered interview analyzer that uses natural language processing and machine learning to analyze interview videos and provide feedback on the candidate's performance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "2",
       "name": "Travel_Verse",
       "createdAt": "2025",
       "url": "https://github.com/jonu888/Travel_Verse",
@@ -23,7 +45,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3",
       "name": "JOB_HUB-WebApplication",
       "createdAt": "2024",
       "url": "https://github.com/jonu888/JOB_HUB-WebApplication",
@@ -49,7 +71,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "name": "Sign-language-converter",
       "createdAt": "2023",
       "url": "https://github.com/jonu888/Sign-language-converter",
@@ -75,37 +97,11 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "name": "Todo-Task manager",
       "createdAt": "2024",
       "url": "https://github.com/jonu888/ToDo",
       "description": "The Todo-App is a task managing Web-Application to help its users to stay organized for their day to day activities",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "name": "MovieRater - Movie Rating System",
-      "createdAt": "2024",
-      "url": "https://github.com/jonu888/Movie_Rating_System",
-      "description": "MovieRater is a sleek, modern web application that allows users to register, log in, rate, and review their favorite movies.",
       "isFork": false,
       "languages": [
         {
