@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "As a Python developer, I’m driven by a passion for building real-world solutions that make a lasting impact. I enjoy creating  web applications and  systems that are  thoughtfully designed for users and the future",
   resumeLink:
-    "https://drive.google.com/file/d/1si8DBL3P_DgyIaV8lc2JvV53ZQt4vBul/view?usp=drive_link",
+    "https://drive.google.com/file/d/12zYZ7zYTmsNVmwDDpdFCoPTMG34dLePr/view?usp=drive_link",
   portfolio_repository: "https://github.com",
   githubProfile: "https://github.com/jonu888",
 };
